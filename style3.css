@@ -1,0 +1,47 @@
+ html,body{
+padding:0;
+margin:0;
+width:100%;
+height:100%;
+font-family: sans-serif;
+ }
+.content-top{
+	height:100%;
+	width:100%;
+	overflow:hidden;
+	background:url(eee.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	
+}
+.content{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50% ,-50%);
+	text-align:center;
+	
+}
+.content h1{
+	color:white;
+	font-size:70px;
+	font-weight:bold;
+	text-transform:uppercase;
+	letter-spacing:14px;
+	
+}
+.content a{
+	text-decoration:none;
+	color:white;
+	border:2px solid;
+	background:#3489e3;
+	padding:10px;
+	border-radius:24px;
+	
+}
+p{
+	font-size:24px;
+	font-family: sans-serif;
+	padding:10px;
+	
+}

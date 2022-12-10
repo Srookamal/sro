@@ -1,0 +1,62 @@
+ body{
+padding:0;
+margin:0;
+font-family: sans-serif;
+background-image: url(hhhhh.jpg);
+}
+.box{
+	width: 300px;
+	padding:40px;
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-30%,-40%);
+background-image: url(ef.jpg);
+text-align: center;
+}
+.box h1{
+	text-transform:uppercase;
+	color: red;
+	font-weight:500px;
+}
+.box input[type ="text"], .box input[type="password"]{
+	border: 0;
+	background: none;
+	display: block;
+	margin:20px auto;
+	text-align: center;
+	border:2px solid #3498db;
+	padding: 14px 10px;
+	width: 200px;
+	border-radius: 24px;
+	outline:none;
+	color: red;
+	transition :0.24s;
+}
+.box input[type="sumbit"]{
+	border: 0;
+	background: none;
+	display: block;
+    margin:20px auto;
+	text-align: center;
+	border:2px solid #3498db;
+	padding: 14px 40px;
+	border-radius: 24px;
+	outline:none ;
+	color: red;
+	transition:0.24s;
+	cursor: pointer;
+}
+
+.box input[type ="text"]:focus, .box input[type="password"]:focus{
+width:280px;
+border-color:red;
+}
+ .box input[type ="submit"]:hover{
+	border-color:black;
+	color:white;
+	background:red;
+ 
+ }
+
+

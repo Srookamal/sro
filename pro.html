@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>home page</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet"  href="style4.css">
+</head>
+<body>
+<div class="card">
+<div class="card-img">
+<img src="nn.jpg">
+</div>
+<div class="cont">
+<p>$150</p>
+<a href="buy.php">buy</a>
+    </div>
+</div>
+
+<div class="card">
+<div class="card-img">
+<img src="mm.jpg">
+</div>
+<div class="cont">
+<p>$190</p>
+<a href="buy.php">buy</a>
+    </div>
+</div>
+             
+<div class="card">
+<div class="card-img">
+<img src="j.jpg">
+</div>
+<div class="cont">
+<p>$160</p>
+<a href="buy.php">buy</a>
+    </div>
+</div>
+
+<div class="card">
+<div class="card-img">
+<img src="eeee.jpg">
+</div>
+<div class="cont">
+<p>$190</p>
+<a href="buy.php">buy</a>
+    </div>
+</div>
+<div class="card">
+<div class="card-img">
+<img src="eeeee.jpg">
+</div>
+<div class="cont">
+<p>$190</p>
+<a href="buy.php">buy</a>
+    </div>
+</div>
+<div	 class="card">
+<div class="card-img">
+<img src="h.jpg">
+</div>
+<div class="cont">
+<p>$190</p>
+<a href="buy.php">buy</a>
+    </div>
+</div>
+
+<div class="card">
+<div class="card-img">
+<img src="hhhh.jpg">
+</div>
+<div class="cont">
+<p>$190</p>
+<a href="buy.php">buy</a>
+    </div>
+</div>
+             
+<div class="card">
+<div class="card-img">
+<img src="hhh.jpg">
+</div>
+<div class="cont">
+<p>$190</p>
+<a href="buy.php">buy</a>
+    </div>
+</div>
+           
+
+
+ </body>
+ </html>
+	  
+
+             
